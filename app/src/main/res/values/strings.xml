@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">movie</string>
+    <string name="movie_title">Title</string>
+        <string name="movie_year">Year</string>
+        <string name="movie_rating">Rating</string>
+        <string name="movie_runtime">Runtime</string>
+        <string name="movie_actors">Actors</string>
+        <string name="movie_plot">Plot</string>
+
+    <string name="color">Colour</string>
+    <string name="neighbor">Neighbour</string>
+    <string name="favorite">Favourite</string>
+
+    </resources>
+
